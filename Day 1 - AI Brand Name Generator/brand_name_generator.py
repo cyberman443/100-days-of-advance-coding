@@ -49,6 +49,7 @@ def app_init_description_print_function():
     
     ✨ Features:
     - {blue}**Keywords**:{reset} Infuse your brand with meaningful words.
+    - {blue}**Country Name**:{reset} Add a Country as your base.
     - {blue}**City Name**:{reset} Add a local flair to connect with your community.
     - {blue}**Business Type**:{reset} Tailor names to your industry for better resonance.
     - {blue}**Themes**:{reset} Convey emotions like innovation, elegance, or sustainability.
