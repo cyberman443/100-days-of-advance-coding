@@ -1,5 +1,7 @@
 # Brand Name Generator
 
+![alt text](https://github.com/cyberman443/100-days-of-advance-coding/blob/main/screenshots/ai_brand_name_generator.PNG?raw=true)
+
 ## Overview
 
 The **Brand Name Generator** is a Python-based application powered by OpenAI's GPT-3 model to help users generate creative, catchy, and unique brand names based on their input. The application takes key information from the user, such as **keywords**, **business type**, **themes**, **target audience**, and **location**, and then generates a list of highly relevant brand names along with explanations of why each name is a good fit.
