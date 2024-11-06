@@ -89,7 +89,7 @@ def CurrencyEchanger():
     
 
 
-    app_id = "b6c3e25e7f4f4282b1fda8f7cf70b316"
+    app_id = "APP-ID"
     today = datetime.now()
     dates = []
     
